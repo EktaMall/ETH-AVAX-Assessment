@@ -6,7 +6,7 @@ This project demonstrates a Solidity smart contract that uses `require()`, `asse
 
 ## Purpose
 
-The purpose of this project is to provide an example of how to use error handling statements in Solidity smart contracts. This helps developers understand how to enforce conditions and handle errors in their contracts.
+The purpose of this project is to provide an example of how to use error handling statements in Solidity smart contracts. This helps developers to understand how to enforce conditions and handle errors in their contracts.
 
 ## Features
 
