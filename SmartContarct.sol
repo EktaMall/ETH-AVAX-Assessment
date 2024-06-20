@@ -12,7 +12,7 @@ contract ErrorHandlingContract {
     value = _value;
   }
 
-  function performDivison(uint _numerator, uint _denominator) public pure returns (uint) {
+  function performDivision(uint _numerator, uint _denominator) public pure returns (uint) {
     require(_denominator !=0, "Cannot divide by zero.");
 
     if (_numerator % _denominator != 0) {
